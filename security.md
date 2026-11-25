@@ -203,4 +203,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Stellaris · Updated 2026-11-14 · Shared under the MIT License*
+*Stellaris · Updated 2026-11-25 · Shared under the MIT License*
